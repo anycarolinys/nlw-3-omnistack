@@ -1,8 +1,0 @@
-DEFINIÇÕES BÁSICAS
-
-- Um componente no React é uma função que retorna um conteúdo HTML ou JSX (JavaScript XML).
-- O estrutura do React é constituída basicamente por componentes e propriedades.
-- Propriedades são "atributos" através dos quais se define os componentes. Portanto, quando uma propriedade é atribuída a um determinado componente, na chamada do mesmo deve-se atribuir os valores correspondentes às propriedades. 
-- Todas as importações de imagens e estilizações devem ser realizadas por arquivos JS, nunca por arquivos HTML.
-
-O elemento de divisão HTML <div> é um container genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilos (usando class ou id), ou porque eles compartilham valores de atributos, como lang. 
